@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: boyapatihemanth/dictionary:v1
+        image: boyapatihemanth/dictionary:v3
         ports:
         - containerPort: 80
